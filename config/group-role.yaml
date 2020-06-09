@@ -1,0 +1,12 @@
+member1@mail.com:
+  - roles/a
+  - roles/b
+  - roles/c
+member2@mail.com:
+  - roles/a
+  - roles/c
+member3@mail.com:
+  - roles/b
+member4@mail.com:
+  - roles/a
+  - roles/d
